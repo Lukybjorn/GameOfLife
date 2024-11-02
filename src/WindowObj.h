@@ -7,6 +7,7 @@ class WindowObj {
  *
  */
 private:
+    int x;
 
 
 public:
